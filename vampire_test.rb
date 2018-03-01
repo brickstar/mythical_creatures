@@ -34,4 +34,5 @@ class VampireTest < Minitest::Test
     vampire.drink
     refute vampire.thirsty?
   end
+  
 end
